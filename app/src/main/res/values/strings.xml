@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name" translatable="false">AtividadeListaPersonalizada</string>
+    <string name="clique_em_um_planeta" translatable="false">Clique em um Planeta</string>
+    <string name="lorem_ipsum" translatable="false">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+    <!-- Mercúrio -->
+    <string name="Mercurio_titulo" translatable="false">Mercúrio: Pequeno e veloz</string>
+    <string name="Mercurio_descricao1" translatable="false">Com apenas 4.880 km de diâmetro, Mercúrio é menor que a lua de Júpiter, Ganimedes.</string>
+    <string name="Mercurio_descricao2" translatable="false">A rotação de Mercúrio é lenta e descompassada, levando 59 dias terrestres para completar um dia. Isso significa que um lado do planeta fica exposto ao Sol por longos períodos, enquanto o outro lado fica em total escuridão.</string>
+    <string name="Mercurio_descricao3" translatable="false">A superfície de Mercúrio é coberta por crateras, resultado de colisões com asteroides e cometas.</string>
+
+    <!-- Vênus -->
+    <string name="Venus_titulo" translatable="false">Vênus: A Estrela da Manhã e da Noite</string>
+    <string name="Venus_descricao1" translatable="false">Vênus é conhecido como a "Estrela da Manhã" e a "Estrela da Noite" devido à sua visibilidade antes do amanhecer e após o anoitecer.</string>
+    <string name="Venus_descricao2" translatable="false">Possui uma atmosfera densa de dióxido de carbono, criando um efeito estufa intenso.</string>
+    <string name="Venus_descricao3" translatable="false">Vênus gira ao contrário da maioria dos planetas, com um movimento retrógrado.</string>
+
+    <!-- Terra -->
+    <string name="Terra_titulo" translatable="false">Terra: Nosso Lar Azul</string>
+    <string name="Terra_descricao1" translatable="false">A Terra é o único planeta conhecido a abrigar vida.</string>
+    <string name="Terra_descricao2" translatable="false">Possui uma atmosfera rica em oxigênio, essencial para a vida como a conhecemos.</string>
+    <string name="Terra_descricao3" translatable="false">Um dia na Terra dura cerca de 24 horas, determinando nossos ciclos diários.</string>
+
+    <!-- Marte -->
+    <string name="Marte_titulo" translatable="false">Marte: O Planeta Vermelho</string>
+    <string name="Marte_descricao1" translatable="false">Marte tem uma coloração avermelhada devido à presença de óxido de ferro em sua superfície.</string>
+    <string name="Marte_descricao2" translatable="false">Possui a maior montanha do sistema solar, o Monte Olimpo, e o maior cânion, o Valles Marineris.</string>
+    <string name="Marte_descricao3" translatable="false">Marte tem estações semelhantes à Terra, mas duram quase o dobro do tempo devido à sua órbita mais longa.</string>
+
+    <!-- Júpiter -->
+    <string name="Jupiter_titulo" translatable="false">Júpiter: O Gigante Gasoso</string>
+    <string name="Jupiter_descricao1" translatable="false">Júpiter é o maior planeta do sistema solar, com mais de 11 vezes o diâmetro da Terra.</string>
+    <string name="Jupiter_descricao2" translatable="false">Possui uma atmosfera turbulenta e uma Grande Mancha Vermelha, uma tempestade gigante que dura séculos.</string>
+    <string name="Jupiter_descricao3" translatable="false">Júpiter tem pelo menos 79 luas conhecidas, incluindo as quatro luas galileanas: Io, Europa, Ganimedes e Calisto.</string>
+
+    <!-- Saturno -->
+    <string name="Saturno_titulo" translatable="false">Saturno: O Senhor dos Anéis</string>
+    <string name="Saturno_descricao1" translatable="false">Saturno é conhecido por seus impressionantes anéis compostos principalmente de partículas de gelo.</string>
+    <string name="Saturno_descricao2" translatable="false">Tem uma densidade tão baixa que Saturno poderia flutuar na água.</string>
+    <string name="Saturno_descricao3" translatable="false">Saturno tem mais de 80 luas, incluindo Titã, a segunda maior lua do sistema solar.</string>
+
+    <!-- Urano -->
+    <string name="Urano_titulo" translatable="false">Urano: O Planeta Inclinado</string>
+    <string name="Urano_descricao1" translatable="false">Urano é único por girar de lado, com um eixo de rotação inclinado em mais de 90 graus.</string>
+    <string name="Urano_descricao2" translatable="false">Possui anéis estreitos e uma atmosfera de hidrogênio e hélio.</string>
+    <string name="Urano_descricao3" translatable="false">Um ano em Urano dura cerca de 84 anos terrestres.</string>
+
+    <!-- Netuno -->
+    <string name="Netuno_titulo" translatable="false">Netuno: O Planeta Azul</string>
+    <string name="Netuno_descricao1" translatable="false">Netuno é conhecido por suas intensas tempestades e ventos rápidos.</string>
+    <string name="Netuno_descricao2" translatable="false">Possui anéis tênues e uma atmosfera de gases como metano, que dá ao planeta sua coloração azul.</string>
+    <string name="Netuno_descricao3" translatable="false">Netuno tem 14 luas conhecidas, sendo Tritão a maior delas.</string>
+
+    <!-- Plutão -->
+    <string name="Plutao_titulo" translatable="false">Plutão: O Planeta Anão Distante</string>
+    <string name="Plutao_descricao1" translatable="false">Plutão é considerado um planeta anão e faz parte da região do Cinturão de Kuiper.</string>
+    <string name="Plutao_descricao2" translatable="false">Tem uma órbita excêntrica e inclinada em relação aos outros planetas.</string>
+    <string name="Plutao_descricao3" translatable="false">Plutão possui cinco luas conhecidas, sendo Caronte a maior e mais próxima.</string>
+
+</resources>
+
+
